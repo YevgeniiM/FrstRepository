@@ -11,7 +11,7 @@ import (
 */
 
 func main() {
-	passingScore := 100
+	passingScore := 200
 	var subjectScore1 int
 	fmt.Println("Введите Ваш бал по первому предмету:")
 	fmt.Scan(&subjectScore1)
